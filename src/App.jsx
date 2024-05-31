@@ -5,6 +5,8 @@ import Home from './components/Home/Home';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
+// Live site link: https://grubby-direction.surge.sh/
+
 const App = () => {
   return (
     <div>
